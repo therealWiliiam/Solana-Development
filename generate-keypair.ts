@@ -2,7 +2,7 @@
 // ------------------------------------------------------------
 // This script generates a new Solana keypair and prints the
 // public key (Base58) and secret key to the console.
-// ------------------------------------------------------------
+// -------------------------------------------------------------
 
 import { Keypair } from "@solana/web3.js";
 
